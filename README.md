@@ -77,3 +77,5 @@ FLAG_FORMATS = [
 --header "X-Key: val"  Custom header
 -o file.json    Save results
 ```
+⚠️ For educational and authorized testing only.
+
